@@ -1,5 +1,16 @@
-## Hi there 👋
+## 💡便利なものを作りたい
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoralMint&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8&theme=ayu-mirage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KoralMint&hide=stars&theme=ayu-mirage&card_width=320" />
+</p>
 
+## 最近のトレンド
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,obsidian,ai)](https://skillicons.dev)
+
+## 知ってる / ちょっと知ってる
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java,cs,lua,markdown)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,ai,pr,blender,unity)](https://skillicons.dev)
 <!--
 **KoralMint/KoralMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
