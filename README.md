@@ -1,7 +1,7 @@
 ## 💡便利なものを作りたい
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoralMint&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8&theme=ayu-mirage" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KoralMint&hide=stars&theme=ayu-mirage&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koranoa3&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8&theme=ayu-mirage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Koranoa3&hide=stars&theme=ayu-mirage&card_width=320" />
 </p>
 
 ## 最近のトレンド
