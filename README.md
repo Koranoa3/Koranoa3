@@ -5,12 +5,14 @@
 </p>
 
 ## 最近のトレンド
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,obsidian,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,react,graphql,nestjs,obsidian)](https://skillicons.dev)
 
 ## 知ってる / ちょっと知ってる
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java,cs,lua,markdown)](https://skillicons.dev)
+Frame / [![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind,prisma,graphql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ai,pr,blender,unity)](https://skillicons.dev)
+Lang / [![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,cs,lua)](https://skillicons.dev)
+
+Tool / [![My Skills](https://skillicons.dev/icons?i=docker,obsidian,ai,pr,blender,unity)](https://skillicons.dev)
 <!--
 **KoralMint/KoralMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
