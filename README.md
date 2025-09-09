@@ -12,7 +12,7 @@ Frame / [![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind,pr
 
 Lang / [![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,cs,lua)](https://skillicons.dev)
 
-Tool / [![My Skills](https://skillicons.dev/icons?i=docker,obsidian,ai,pr,blender,unity)](https://skillicons.dev)
+Tool / [![My Skills](https://skillicons.dev/icons?i=docker,figma,obsidian,ai,pr,blender)](https://skillicons.dev)
 <!--
 **KoralMint/KoralMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
