@@ -5,7 +5,8 @@
 </p>
 
 ## 最近のトレンド
-[![My Skills](https://skillicons.dev/icons?i=arduino,react,graphql,nestjs,obsidian)](https://skillicons.dev)
+(2025/11/02時点)
+[![My Skills](https://skillicons.dev/icons?i=go,arduino,vue)](https://skillicons.dev)
 
 ## 知ってる / ちょっと知ってる
 Frame / [![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind,prisma,graphql)](https://skillicons.dev)
